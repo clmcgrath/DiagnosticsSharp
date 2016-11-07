@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DiagnosticsSharp.Plugins.MachineInfo</id>
+    <title>DiagnosticsSharp.Core</title>
+    <authors>Chris McGrath</authors>
+    <version>$version$</version>
+    <owners>Chris McGrath</owners>
+    <projectUrl>https://www.github.com/clmcgrath/diagnosticssharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DiagnosticsSharp Core Services and Plugin SDK</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Diagnostics, CLI, System Information</tags>
+  </metadata>
+</package>

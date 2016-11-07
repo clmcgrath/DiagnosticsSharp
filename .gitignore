@@ -1,0 +1,19 @@
+bin/
+obj/
+**/bin/
+**/obj/
+.suo
+# Ignore NuGet Packages
+*.nupkg
+# Ignore the packages folder
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+!**/packages/repositories.config
+.cr
+.vs
+*.user
+#advanced installer output directories 
+/DiagnosticsSharp.Install/Output
+/DiagnosticsSharp.Install/DiagnosticsSharp.Install-cache/

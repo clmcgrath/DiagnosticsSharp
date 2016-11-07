@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DignosticsSharp.Runner</id>
+    <title>DiagnosticsSharp.Runner</title>
+    <version>$version$</version>
+    <authors>Chris McGrath</authors>
+    <owners>Chris McGrath</owners>
+    <projectUrl>https://bitbucket.org/clmcgrath/diagnosticssharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extensible Diagnostic Tooling</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Diagnostics, CLI, System Information</tags>
+  </metadata>
+</package>
