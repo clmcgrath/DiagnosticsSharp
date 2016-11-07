@@ -124,7 +124,6 @@
     <Compile Include="Services\PluginFileSource.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="DiagnosticsSharp.Runner.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>

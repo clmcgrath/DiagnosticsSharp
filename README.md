@@ -112,7 +112,7 @@ Plugins should Implement the `IDiagnosticsRenderer` interface
 		    
 		    public void Render()
 		    {
-			    _console.Log($"ETAG: { _machineInfo.ETag }");
+			    _console.Log($"Machine Name: { _machineInfo.MachineName }");
 			    _console.Log($"Current Domain: { _machineInfo.UserDomain }");
 			    _console.Log($"Current User: { _machineInfo.Username }");
 			    _console.Log($"Processor:  { _machineInfo.Processor }");
